@@ -11,6 +11,7 @@ python .\manage.py runserver
 acesso: 127.0.0.1:8000/admin
 usuario: perito
 senha: perito
+forexsys
 """
 # Register your models here.
 from .models import Processos
